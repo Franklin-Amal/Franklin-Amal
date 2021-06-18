@@ -2,7 +2,7 @@
 - 👀 I’m interested in learining Python and Data Science 
 - 🌱 I’m currently learning Azure
 - 💞️ I’m looking to collaborate on Azure and Python
-- 📫 How to reach me Email at franklin.amal@outlook.com
+- 📫 Reach me via Email at franklin.amal@outlook.com
 
 <!---
 Franklin-Amal/Franklin-Amal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
