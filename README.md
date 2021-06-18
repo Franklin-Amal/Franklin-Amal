@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Franklin-Amal
 - 👀 I’m interested in learining Python and Data Science 
-- 🌱 I’m currently learning Azure Administrator
+- 🌱 I’m currently learning Azure
 - 💞️ I’m looking to collaborate on Azure and Python
 - 📫 How to reach me Email at franklin.amal@outlook.com
 
